@@ -1,0 +1,7 @@
+.containe{
+    width: 100%;
+    justify-content: space-around;
+    display:  flex;
+    height: fit-content;
+    background-color: greenyellow;
+}
